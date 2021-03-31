@@ -1,0 +1,21 @@
+img
+{ 
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height: 100px;
+}
+li {
+    display:inline-table;
+  }
+* 
+{
+    text-align: center;
+}
+li
+{
+    margin-left:1% ;
+    padding-left: 1%;
+    list-style:'none';
+}
